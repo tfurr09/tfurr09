@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Taylor 👋
 
 <!--
 **tfurr09/tfurr09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an aspiring data scientist and I'm currently pursuing my master of science in applied data science at the University of Chicago. 
